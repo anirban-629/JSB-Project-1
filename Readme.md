@@ -2,8 +2,10 @@
 
 ## Learning
 
-- Learned about positioning properties. Placing elements
-
+- Learned about 
+    1. Positioning properties
+    2. Placing elements
+    
 ## Time taken to finish this Project
 
 - It took **6 hours** to complete as that time I was in a very begineer level of CSS.
